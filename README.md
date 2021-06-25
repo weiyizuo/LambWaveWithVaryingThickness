@@ -1,1 +1,1 @@
-# LambWaveWithVaryingThickness
+# nonlinear_lamb_wave
